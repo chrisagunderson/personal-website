@@ -23,3 +23,7 @@ See https://wowchemy.com/docs/getting-started/page-builder/ for icon packs and c
 Line 64: fonts
 
 Line 103: menu options
+
+## content folder
+
+don't delete _index.md. this is a section configuration. Be careful in adjusting it.
