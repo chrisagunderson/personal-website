@@ -125,6 +125,11 @@ enableEmoji = true
     name = "Publications"
     title = "Publications"
     url = "/publications"
+    weight = 6
+  [[menu.header]]
+    name = "CV"
+    title = "Curriculum Vitae"
+    url = "/cv"
     weight = 5
     
   # Configure footer  

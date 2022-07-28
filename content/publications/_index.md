@@ -4,7 +4,7 @@ description: "Below are my academic publications. Please also see my [Google Sch
 author: "Chris Gunderson"
 show_post_thumbnail: true
 show_author_byline: true
-show_post_date: false
+show_post_date: true
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
 

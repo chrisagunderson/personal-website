@@ -2,7 +2,7 @@
 title: "The Connection Between Deception Detection and Financial Exploitation of Older (vs. Young) Adults"
 subtitle: ""
 excerpt: "Using a cross-sectional design, older and young adults viewed and made judgments of real, high-stakes truths and lies with financial consequences."
-date: 2021-10-12
+date: 2022-04-01
 author: "Christopher A. Gunderson, Leanne ten Brinke"
 draft: false
 tags:
